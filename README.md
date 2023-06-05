@@ -1,2 +1,0 @@
-# Codealpha.
-Temperature Converter
